@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+  font-family: "Gill Sans", sans-serif;
+}
+
+div {
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  align-content: center;
+}
